@@ -52,18 +52,19 @@ html, body {
     width: inherit;
     height: inherit;
     padding-left: 3em;
-    padding-top: 1em;
+    padding-top: 2em;
     padding-right: 3em;
 }
 
 .headingAbout_1 {
     font-size: 10vw;
     font-weight: 700;
+    padding-top: 0;
 }
 
 .headingAbout_2 {
     font-weight: 700;
-    font-size: 5vw;
+    font-size: 5vw; 
 }
 
 .about a {
@@ -84,4 +85,11 @@ html, body {
 .headingUnder {
     text-decoration: underline wavy #1c75bc;
     margin-bottom: 0.2em;
+}
+
+.navig {
+    color: gainsboro !important;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
 }
