@@ -87,9 +87,23 @@ html, body {
     margin-bottom: 0.2em;
 }
 
+.headingUnder2 {
+    text-decoration: underline wavy #e8194a;
+    margin-bottom: 0.2em;
+}
+
 .navig {
     color: gainsboro !important;
     text-decoration: none;
     margin: 0;
     padding: 0;
+}
+
+.btn-danger {
+    background-color: #e8194a !important;
+    color: white;
+}
+
+.card {
+    margin-bottom: 1em;
 }
