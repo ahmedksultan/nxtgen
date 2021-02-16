@@ -107,3 +107,35 @@ html, body {
 .card {
     margin-bottom: 1em;
 }
+
+.logo {
+    /* original size: 2084 x 1712; 521 x 428*/
+    margin-bottom: 3em;
+}
+
+/* xs */
+.logo {
+    width: 260.5px;
+    height: 214px;
+}
+/* sm */
+@media (min-width: 768px) {
+    .logo {
+        width: 312.6px;
+        height: 256.8px;
+    }
+}
+/* md */
+@media (min-width: 992px) {
+    .logo {
+        width: 364.7px;
+        height: 299.6px;
+    }
+}
+/* lg */
+@media (min-width: 1200px) {
+    .logo {
+        width: 416.8px;
+        height: 342.4px;
+    }
+}
