@@ -132,10 +132,3 @@ html, body {
         height: 299.6px;
     }
 }
-/* lg */
-@media (min-width: 1200px) {
-    .logo {
-        width: 416.8px;
-        height: 342.4px;
-    }
-}
