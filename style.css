@@ -70,12 +70,14 @@ html, body {
     font-size: 8vw;
     font-weight: 700;
     padding-top: 0;
+    color: #212529;
 }
 
 .headingAbout_2 {
     font-weight: 700;
     font-size: 5vw; 
     padding-top: 0;
+    color: #212529;
 }
 
 .about a {
@@ -84,7 +86,7 @@ html, body {
 }
 
 .interestedBox {
-    background-color: black;
+    background-color: #212529;
     padding: 1em;
     width: 100%;
     color: white;
