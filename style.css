@@ -133,6 +133,22 @@ html, body {
     margin-bottom: 1em;
 }
 
+.apply-now {
+    background: linear-gradient(221deg, #1c75bc, #e8194a) !important;
+    color: white !important;
+}
+
+.apply-now a {
+    color: black;
+    font-weight: bold;
+}
+
+.apply-now a:hover {
+    background: rgba(255, 255, 255, 0);
+    border: 1px solid white;
+    color: white;
+}
+
 .logo {
     /* original size: 2084 x 1712; 521 x 428*/
     margin-bottom: 3em;
